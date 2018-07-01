@@ -1,0 +1,96 @@
+@CHARSET "ISO-8859-1";
+@media screen and (min-width: 768px){
+	body{
+		margin: 3%;
+		padding: 1%;
+	}
+
+	
+	.blue{
+		width: 50%;
+        font-size: 2em;
+		color: white;
+
+	}
+	.red{
+
+		width: 50%;
+		color: white;
+        font-size: 2em; 
+	}
+	.green{
+		width: 50%;
+        font-size: 2em;
+		color: white;
+	}
+
+	.purple{
+		width: 50%;
+        font-size: 2em;
+		color: white;
+	}
+}
+@media screen and (min-width: 480px) and (max-width: 767px){
+	body{
+		margin: 1%;
+		padding: 1%;
+	}
+	
+	
+	.blue{
+		width: 50%;
+        font-size: 1em;
+		color: white;
+
+	}
+	.red{
+
+		width: 50%;
+        font-size: 1em;
+		color: white;
+	}
+	.green{
+		width: 50%;
+        font-size: 1em;
+		color: white;
+	}
+
+	.purple{
+		width: 50%;
+        font-size: 1em;
+		color: white;
+	}
+}
+
+@media screen and (min-width: 480px) {
+	body{
+		margin: 1%;
+		padding: 1%;
+	}
+
+	
+	
+	.blue{
+		width: 100%;
+        font-size: 2em;
+		color: white;
+
+	}
+	.red{
+
+		width: 100%;
+        font-size: 2em;
+		color: white;
+	}
+	.green{
+		width: 100%;
+        font-size: 2em;
+		color: white;
+	}
+
+	.purple{
+		width: 100%;
+        font-size: 2em;
+		color: white;
+	}
+}
